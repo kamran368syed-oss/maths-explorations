@@ -74,6 +74,7 @@ python collatz.py
 python fibonacci.py
 ```
 
+The requirements file will just download matplotlib so that the graohs can be presented
 The graphs are saved in the `images` folder.
 
 ## Ideas for next steps
